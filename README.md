@@ -1,2 +1,2 @@
-# LITA-class-work
-this is were I want to document my projects  while learning DATA Analysis with the Incubator Hub.
+# LITA_Class_ Documentations
+This is were I want to document my projects  while learning Data Analysis with the Incubator Hub.
